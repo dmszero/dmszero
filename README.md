@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hi there 👋
+# I am Eunyoung Jung 
 
 <!--
 **dmszero/dmszero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +15,4 @@ Here are some ideas to get you started:-->
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
   
-<a href="mailto:dmszero89@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-#EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
